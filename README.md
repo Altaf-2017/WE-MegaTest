@@ -1,6 +1,8 @@
 ﻿# WE-MegaTest
 
-## Problem Statement: Imagine you work for software offshore company, and your client ask you to create an application for advertisement posting.
+## Problem Statement: 
+
+Imagine you work for software offshore company, and your client ask you to create an application for advertisement posting.
 
 You, as a developer, are required to implement the following.
 
@@ -8,7 +10,7 @@ You, as a developer, are required to implement the following.
 2. Each post can have the following attributes. (title, description, location, phone_number, user_id, category, status, posted_date, updated_date)
 3. User Id of post should be automatically added based on session of currently logged in user.
 
-4) Create an Admin panel where admin can edit/delete/approve user's ads.
+4. Create an Admin panel where admin can edit/delete/approve user's ads.
 
 ## Flow of the Site.
 
@@ -33,9 +35,13 @@ Add New Add [Should be linked to create ad form]
 S.No. | Title | 	Action
  1	  iPhone	Edit|Delete. [Delete should delete ad using ajax]
 
-### Logout: It will logout the user
+### Logout: 
 
-### Register: Register will register user and insert into a database and assign  a 
+It will logout the user
+
+### Register: 
+
+Register will register user and insert into a database and assign  a 
 role of poster | admin.
 
 ## Roles based Dashboard
